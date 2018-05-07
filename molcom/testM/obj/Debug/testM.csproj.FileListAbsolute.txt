@@ -1,0 +1,6 @@
+C:\Users\Polina.Morgan\source\repos\testM\testM\bin\Debug\testM.exe
+C:\Users\Polina.Morgan\source\repos\testM\testM\bin\Debug\testM.pdb
+C:\Users\Polina.Morgan\source\repos\testM\testM\obj\Debug\testM.csprojResolveAssemblyReference.cache
+C:\Users\Polina.Morgan\source\repos\testM\testM\obj\Debug\testM.csproj.CoreCompileInputs.cache
+C:\Users\Polina.Morgan\source\repos\testM\testM\obj\Debug\testM.exe
+C:\Users\Polina.Morgan\source\repos\testM\testM\obj\Debug\testM.pdb
